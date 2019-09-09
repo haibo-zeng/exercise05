@@ -10,7 +10,6 @@ In a file named wordcount.cpp write a program that reads all the words from a te
 * You should be able to handle lower case and upper case words, for example, “TOM”, “Tom” and “tom” should be considered as the same word.
 * For the purpose of this exercise,
 a)	you can skip on error checking.
-b)	for simplicity, you do not need to handle punctuation signs. That is, you may consider that words with punctuation signs are different from those without, e.g., “in.” is different from “in”
-you can skip on error checking.
+b)	for simplicity, you do not need to handle punctuation signs. That is, you may consider that words with punctuation signs are different from those without, e.g., “in.” is different from “in”.
 		 
 		 
